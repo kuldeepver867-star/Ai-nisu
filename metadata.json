@@ -1,0 +1,6 @@
+{
+  "name": "Motion Studio",
+  "description": "AI character motion control studio that transfers body movements, facial expressions, and timing from a driving video onto a character image with identity preservation and natural background audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
